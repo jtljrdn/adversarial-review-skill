@@ -5,7 +5,7 @@ A Claude Code skill that conducts a two-phase adversarial security and code qual
 ## Installation
 
 ```bash
-npx skills install jtljrdn/adversarial-review-skill
+npx skills add jtljrdn/adversarial-review-skill
 ```
 
 ## Usage
