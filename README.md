@@ -61,9 +61,7 @@ A consolidated report is presented with:
 
 ```
 adversarial-review-skill/
-└── skills/
-    └── adversarial-review/
-        └── SKILL.md
+    └── SKILL.md
 ```
 
 ## Configuration
